@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=polinkasosiska&theme=radical&border_radius=5&card_width=501)](https://git.io/streak-stats)
 
 <!--
 **polinkasosiska/polinkasosiska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
